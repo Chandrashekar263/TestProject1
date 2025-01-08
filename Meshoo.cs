@@ -25,7 +25,7 @@ namespace TestProject1
             driver.FindElement(By.XPath("(//span[@class='SingleChip__StyledChip-sc-g3p1gd-0 bfRnQN'])[1]")).Click();
             driver.FindElement(By.XPath("//span[text()='Buy Now']")).Click();
             driver.Quit();
-            ///tdyryjyuutgygyfuy
+            // so what 
         }
     }
 }
